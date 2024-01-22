@@ -1,0 +1,204 @@
+https://storywrangling.org/api/ngrams/will go wrong
+https://storywrangling.org/api/ngrams/will end
+https://storywrangling.org/api/ngrams/will be impossible
+https://storywrangling.org/api/ngrams/will not happen
+https://storywrangling.org/api/ngrams/will be terrible
+https://storywrangling.org/api/ngrams/will be horrible
+https://storywrangling.org/api/ngrams/will never end
+https://storywrangling.org/api/ngrams/will not end
+https://storywrangling.org/api/ngrams/only
+https://storywrangling.org/api/ngrams/every
+https://storywrangling.org/api/ngrams/everyone
+https://storywrangling.org/api/ngrams/everybody
+https://storywrangling.org/api/ngrams/everything
+https://storywrangling.org/api/ngrams/everywhere
+https://storywrangling.org/api/ngrams/always
+https://storywrangling.org/api/ngrams/perfect
+https://storywrangling.org/api/ngrams/the best
+https://storywrangling.org/api/ngrams/all
+https://storywrangling.org/api/ngrams/not a single
+https://storywrangling.org/api/ngrams/no one
+https://storywrangling.org/api/ngrams/nobody
+https://storywrangling.org/api/ngrams/nothing
+https://storywrangling.org/api/ngrams/nowhere
+https://storywrangling.org/api/ngrams/never
+https://storywrangling.org/api/ngrams/worthless
+https://storywrangling.org/api/ngrams/the worst
+https://storywrangling.org/api/ngrams/neither
+https://storywrangling.org/api/ngrams/nor
+https://storywrangling.org/api/ngrams/either or
+https://storywrangling.org/api/ngrams/black or white
+https://storywrangling.org/api/ngrams/ever
+https://storywrangling.org/api/ngrams/great but
+https://storywrangling.org/api/ngrams/good but
+https://storywrangling.org/api/ngrams/OK but
+https://storywrangling.org/api/ngrams/not that great
+https://storywrangling.org/api/ngrams/not that good
+https://storywrangling.org/api/ngrams/it was not
+https://storywrangling.org/api/ngrams/not all that
+https://storywrangling.org/api/ngrams/fine but
+https://storywrangling.org/api/ngrams/acceptable but
+https://storywrangling.org/api/ngrams/great yet
+https://storywrangling.org/api/ngrams/good yet
+https://storywrangling.org/api/ngrams/OK yet
+https://storywrangling.org/api/ngrams/fine yet
+https://storywrangling.org/api/ngrams/acceptable yet
+https://storywrangling.org/api/ngrams/but I feel
+https://storywrangling.org/api/ngrams/since I feel
+https://storywrangling.org/api/ngrams/because I feel
+https://storywrangling.org/api/ngrams/but it feels
+https://storywrangling.org/api/ngrams/since it feels
+https://storywrangling.org/api/ngrams/because it feels
+https://storywrangling.org/api/ngrams/still feels
+https://storywrangling.org/api/ngrams/I will not
+https://storywrangling.org/api/ngrams/we will not
+https://storywrangling.org/api/ngrams/you will not
+https://storywrangling.org/api/ngrams/they will not
+https://storywrangling.org/api/ngrams/it will not
+https://storywrangling.org/api/ngrams/that will not
+https://storywrangling.org/api/ngrams/he will not
+https://storywrangling.org/api/ngrams/she will not
+https://storywrangling.org/api/ngrams/I am a
+https://storywrangling.org/api/ngrams/he is a
+https://storywrangling.org/api/ngrams/she is a
+https://storywrangling.org/api/ngrams/they are a
+https://storywrangling.org/api/ngrams/it is a
+https://storywrangling.org/api/ngrams/that is a
+https://storywrangling.org/api/ngrams/sucks at
+https://storywrangling.org/api/ngrams/suck at
+https://storywrangling.org/api/ngrams/I never
+https://storywrangling.org/api/ngrams/he never
+https://storywrangling.org/api/ngrams/she never
+https://storywrangling.org/api/ngrams/you never
+https://storywrangling.org/api/ngrams/we never
+https://storywrangling.org/api/ngrams/they never
+https://storywrangling.org/api/ngrams/I am an
+https://storywrangling.org/api/ngrams/he is an
+https://storywrangling.org/api/ngrams/she is an
+https://storywrangling.org/api/ngrams/they are an
+https://storywrangling.org/api/ngrams/it is an
+https://storywrangling.org/api/ngrams/that is an
+https://storywrangling.org/api/ngrams/a burden
+https://storywrangling.org/api/ngrams/a complete
+https://storywrangling.org/api/ngrams/a completely
+https://storywrangling.org/api/ngrams/a huge
+https://storywrangling.org/api/ngrams/a loser
+https://storywrangling.org/api/ngrams/a major
+https://storywrangling.org/api/ngrams/a total
+https://storywrangling.org/api/ngrams/a totally
+https://storywrangling.org/api/ngrams/a weak
+https://storywrangling.org/api/ngrams/an absolute
+https://storywrangling.org/api/ngrams/an utter
+https://storywrangling.org/api/ngrams/a bad
+https://storywrangling.org/api/ngrams/a broken
+https://storywrangling.org/api/ngrams/a damaged
+https://storywrangling.org/api/ngrams/a helpless
+https://storywrangling.org/api/ngrams/a hopeless
+https://storywrangling.org/api/ngrams/an incompetent
+https://storywrangling.org/api/ngrams/a toxic
+https://storywrangling.org/api/ngrams/an ugly
+https://storywrangling.org/api/ngrams/an undesirable
+https://storywrangling.org/api/ngrams/an unlovable
+https://storywrangling.org/api/ngrams/a worthless
+https://storywrangling.org/api/ngrams/a horrible
+https://storywrangling.org/api/ngrams/a terrible
+https://storywrangling.org/api/ngrams/worst
+https://storywrangling.org/api/ngrams/best
+https://storywrangling.org/api/ngrams/not important
+https://storywrangling.org/api/ngrams/not count
+https://storywrangling.org/api/ngrams/not matter
+https://storywrangling.org/api/ngrams/no matter
+https://storywrangling.org/api/ngrams/the only thing
+https://storywrangling.org/api/ngrams/the one thing
+https://storywrangling.org/api/ngrams/I see only
+https://storywrangling.org/api/ngrams/all I see
+https://storywrangling.org/api/ngrams/can only think
+https://storywrangling.org/api/ngrams/nothing good
+https://storywrangling.org/api/ngrams/nothing right
+https://storywrangling.org/api/ngrams/completely bad
+https://storywrangling.org/api/ngrams/completely wrong
+https://storywrangling.org/api/ngrams/only the bad
+https://storywrangling.org/api/ngrams/only the worst
+https://storywrangling.org/api/ngrams/if I just
+https://storywrangling.org/api/ngrams/if I only
+https://storywrangling.org/api/ngrams/if it just
+https://storywrangling.org/api/ngrams/if it only
+https://storywrangling.org/api/ngrams/everyone believes
+https://storywrangling.org/api/ngrams/everyone knows
+https://storywrangling.org/api/ngrams/everyone thinks
+https://storywrangling.org/api/ngrams/everyone will believe
+https://storywrangling.org/api/ngrams/everyone will know
+https://storywrangling.org/api/ngrams/everyone will think
+https://storywrangling.org/api/ngrams/nobody believes
+https://storywrangling.org/api/ngrams/nobody knows
+https://storywrangling.org/api/ngrams/nobody thinks
+https://storywrangling.org/api/ngrams/nobody will believe
+https://storywrangling.org/api/ngrams/nobody will know
+https://storywrangling.org/api/ngrams/nobody will think
+https://storywrangling.org/api/ngrams/he believes
+https://storywrangling.org/api/ngrams/he knows
+https://storywrangling.org/api/ngrams/he thinks
+https://storywrangling.org/api/ngrams/he will believe
+https://storywrangling.org/api/ngrams/he will know
+https://storywrangling.org/api/ngrams/he will think
+https://storywrangling.org/api/ngrams/she believes
+https://storywrangling.org/api/ngrams/she knows
+https://storywrangling.org/api/ngrams/she thinks
+https://storywrangling.org/api/ngrams/she will believe
+https://storywrangling.org/api/ngrams/she will know
+https://storywrangling.org/api/ngrams/she will think
+https://storywrangling.org/api/ngrams/they believe
+https://storywrangling.org/api/ngrams/they know
+https://storywrangling.org/api/ngrams/they think
+https://storywrangling.org/api/ngrams/they will believe
+https://storywrangling.org/api/ngrams/they will know
+https://storywrangling.org/api/ngrams/they will think
+https://storywrangling.org/api/ngrams/we believe
+https://storywrangling.org/api/ngrams/we know
+https://storywrangling.org/api/ngrams/we think,
+https://storywrangling.org/api/ngrams/we will believe
+https://storywrangling.org/api/ngrams/we will know
+https://storywrangling.org/api/ngrams/we will think
+https://storywrangling.org/api/ngrams/you believe
+https://storywrangling.org/api/ngrams/you know
+https://storywrangling.org/api/ngrams/you think
+https://storywrangling.org/api/ngrams/you will believe
+https://storywrangling.org/api/ngrams/you will know
+https://storywrangling.org/api/ngrams/you will think
+https://storywrangling.org/api/ngrams/all of them
+https://storywrangling.org/api/ngrams/all the time
+https://storywrangling.org/api/ngrams/always happens
+https://storywrangling.org/api/ngrams/always like
+https://storywrangling.org/api/ngrams/happens every time
+https://storywrangling.org/api/ngrams/completely
+https://storywrangling.org/api/ngrams/no one ever
+https://storywrangling.org/api/ngrams/nobody ever
+https://storywrangling.org/api/ngrams/I always
+https://storywrangling.org/api/ngrams/you always
+https://storywrangling.org/api/ngrams/he always
+https://storywrangling.org/api/ngrams/she always
+https://storywrangling.org/api/ngrams/they always
+https://storywrangling.org/api/ngrams/I am always
+https://storywrangling.org/api/ngrams/you are always
+https://storywrangling.org/api/ngrams/he is always
+https://storywrangling.org/api/ngrams/she is always
+https://storywrangling.org/api/ngrams/they are always
+https://storywrangling.org/api/ngrams/all me
+https://storywrangling.org/api/ngrams/all my
+https://storywrangling.org/api/ngrams/because I
+https://storywrangling.org/api/ngrams/because my
+https://storywrangling.org/api/ngrams/because of my
+https://storywrangling.org/api/ngrams/because of me
+https://storywrangling.org/api/ngrams/I am responsible
+https://storywrangling.org/api/ngrams/blame me
+https://storywrangling.org/api/ngrams/I caused
+https://storywrangling.org/api/ngrams/I feel responsible
+https://storywrangling.org/api/ngrams/all my doing
+https://storywrangling.org/api/ngrams/all my fault
+https://storywrangling.org/api/ngrams/my bad
+https://storywrangling.org/api/ngrams/my responsibility
+https://storywrangling.org/api/ngrams/should
+https://storywrangling.org/api/ngrams/ought
+https://storywrangling.org/api/ngrams/must
+https://storywrangling.org/api/ngrams/have to
+https://storywrangling.org/api/ngrams/has to

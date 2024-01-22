@@ -1,0 +1,3 @@
+https://storywrangling.org/api/ngrams/.
+https://storywrangling.org/api/ngrams/!
+https://storywrangling.org/api/ngrams/?
