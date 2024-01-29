@@ -2,6 +2,8 @@
 
 The data used to generate experimental results can be downloaded from [https://drive.google.com/drive/folders/](https://drive.google.com/drive/folders/194BtxOw4eEJscoFbmXsGbSugJ95MzJEJ), and then the files in the data_files folder can be placed in the data_files folder of this repository, and the files in the ngrams_res folder can be placed in the ngrams_res folder of this repository.
 
+![img](/home/zoujj/my_projects/n_grams_0122_git/figure_git/compare_date0912-600.png)
+
 **2. Code for differences in collective memory between platforms**
 
 Run cds_verbs_pro0829_contrast_plot.py
