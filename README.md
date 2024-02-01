@@ -30,7 +30,7 @@ Run cds_verbs_pro0830_week.py
 
 **6. Code for discovery of narrative trends through n-gram**
 
-Run RTD_plot_everyday.py. And run RTD_0828/figtreddit_example.m using MATLAB
+Run RTD_plot_everyday.py. And run RTD_0828/figtreddit_example.m using MATLAB, referenced from https://gitlab.com/compstorylab/allotaxonometer .
 
 ![img](https://github.com/Guangzidetiaoyue/Reddit_Ngrams/blob/master/figure_manuscript/days_trends_day_topic-600.png?raw=true)
 
